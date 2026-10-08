@@ -1,0 +1,15 @@
+﻿{
+  "version": 2,
+  "code": [
+    ".nojekyll",
+    "3rdpartylicenses.txt",
+    "index.html",
+    "main-737TYHSB.js",
+    "polyfills-5CFQRCPP.js",
+    "styles-7AKY55KO.css"
+  ],
+  "content": [
+    "bundle.json",
+    "favicon.ico"
+  ]
+}
