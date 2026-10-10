@@ -1,12 +1,13 @@
 {
   "version": 2,
+  "codeVersion": "0.0.4",
   "code": [
     ".nojekyll",
     "3rdpartylicenses.txt",
     "index.html",
-    "main-5ASG5HJG.js",
+    "main-ZF5HBO4F.js",
     "polyfills-5CFQRCPP.js",
-    "styles-7AKY55KO.css"
+    "styles-25OMXCUQ.css"
   ],
   "content": [
     "bundle.json",
