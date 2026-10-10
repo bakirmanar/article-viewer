@@ -1,18 +1,19 @@
 {
   "version": 2,
-  "codeVersion": "0.0.5",
+  "codeVersion": "0.0.6",
   "code": [
     ".nojekyll",
     "3rdpartylicenses.txt",
+    "favicon.ico",
+    "images/Screenshot_2026-03-28_234733.png",
+    "images/app-logo.png",
     "index.html",
-    "main-5H4GHK73.js",
+    "main-EHW3NFGY.js",
     "polyfills-5CFQRCPP.js",
     "styles-YDIRCXVO.css"
   ],
   "content": [
     "bundle.json",
-    "bundle.version.json",
-    "favicon.ico",
-    "images/Screenshot_2026-03-28_234733.png"
+    "bundle.version.json"
   ]
 }
