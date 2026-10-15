@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "codeVersion": "0.0.7",
+  "codeVersion": "0.0.8",
   "code": [
     ".nojekyll",
     "3rdpartylicenses.txt",
@@ -8,9 +8,9 @@
     "images/Screenshot_2026-03-28_234733.png",
     "images/app-logo.png",
     "index.html",
-    "main-PAYF4TME.js",
+    "main-C5CDHCSH.js",
     "polyfills-5CFQRCPP.js",
-    "styles-YDIRCXVO.css"
+    "styles-AVAJUBQW.css"
   ],
   "content": [
     "bundle.json",
