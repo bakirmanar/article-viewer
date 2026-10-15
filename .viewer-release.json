@@ -14,6 +14,9 @@
   ],
   "content": [
     "bundle.json",
-    "bundle.version.json"
+    "bundle.version.json",
+    "content/Aya_species_origins_map.png",
+    "content/ancient_era_Aya_continents_map.png",
+    "content/ancient_era_Aya_political_map.png"
   ]
 }
