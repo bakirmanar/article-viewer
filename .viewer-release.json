@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "codeVersion": "0.0.8",
+  "codeVersion": "1.0.0",
   "code": [
     ".nojekyll",
     "3rdpartylicenses.txt",
@@ -8,7 +8,7 @@
     "images/Screenshot_2026-03-28_234733.png",
     "images/app-logo.png",
     "index.html",
-    "main-C5CDHCSH.js",
+    "main-BURARZG7.js",
     "polyfills-5CFQRCPP.js",
     "styles-AVAJUBQW.css"
   ],
